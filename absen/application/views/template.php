@@ -34,7 +34,7 @@
             <div class="sidebar-wrapper">
                 <div class="logo">     
                     <a href="<?= base_url() ?>" class="simple-text">
-                    <img src="<?= base_url('assets/img/logo-diskominfo.png') ?>" alt="Logo Diskominfo" class="img-fluid mx-auto d-block" heigt ="10opx" width="100px">
+                    <img src="<?= base_url('assets/img/logo_DISKOMINFO.png') ?>" alt="Logo Diskominfo" class="img-fluid mx-auto d-block" heigt ="100%" width="100%">
                     </a>
                 </div>
                 <ul class="nav">
@@ -109,9 +109,9 @@
         </div>
         <div class="main-panel">
             <!-- Navbar -->
-            <nav class="navbar navbar-expand-lg " color-on-scroll="500">
-                <div class=" container-fluid">
-                    <a class="navbar-brand" href="#pablo"> Presensi </a>
+            <nav class="navbar navbar-expand-lg " color-on-scroll="500" >
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#pablo"> Aplikasi Presensi Online Berbasis Website </a>
                     <button href="" class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-bar burger-lines"></span>
                         <span class="navbar-toggler-bar burger-lines"></span>

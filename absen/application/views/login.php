@@ -17,7 +17,7 @@
                     <section id="login-body" class="pt-3">
                         <div class="card border-0 shadow pt-3">
                             <div class="card-header bg-transparent border-bottom-0 pb-0 text-center">
-                                <img src="<?= base_url('assets/img/logo-diskominfo.png') ?>" alt="Logo Diskominfo" class="img-fluid mx-auto d-block" heigt ="10opx" width="100px">
+                                <img src="<?= base_url('assets/img/logo DISKOMINFO.png') ?>" alt="Logo Diskominfo" class="img-fluid mx-auto d-block">
                                 <div class="mt-3">
                                     <span class="card-info text-center" style="color:blue;font-family:verdana;font-weight:bold;">LOGIN</span>
                                 </div>
